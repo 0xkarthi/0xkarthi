@@ -7,7 +7,7 @@
 - 🔍 **I am Karthikeyan:** Professional Ethical Hacker  & Bug Hunter
 - 🔍 **Currently Focusing On:** Web Security & Advanced Penetration Testing  
 - 📖 **Learning:** New attack vectors & exploit development techniques  
-- ✍️ **Technical Blogs:** [Read My Articles](https://medium.com/@k4r7h1kn)  
+- ✍️ **Technical Blogs:** [Read My Articles](https://medium.com/@0xkarthi)  
 - 💬 **Ask Me About:** Cybersecurity, Red Teaming, Networking & Bug Bounty  
 - 📩 **Reach Me At:** k4r7h1kn@gmail.com  
 - ⚡ **Motto:** Eat 🍔 | Sleep 😴 | Hack 💻 | Repeat 🔁  <br><br><br>
@@ -83,8 +83,6 @@
 
 
 ---
-## 🐍 GitHub Contribution Snake  
-![Snake animation](https://raw.githubusercontent.com/k4r7h1kn/k4r7h1kn/output/snake.svg)
 
 ---
 ## 🎯 Let's Collaborate!
